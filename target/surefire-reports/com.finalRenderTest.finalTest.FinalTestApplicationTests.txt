@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.finalRenderTest.finalTest.FinalTestApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.113 s - in com.finalRenderTest.finalTest.FinalTestApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.041 s - in com.finalRenderTest.finalTest.FinalTestApplicationTests

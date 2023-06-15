@@ -1,1 +1,4 @@
+com\databaseviewer\dbviewerapp\AlterRequest.class
+com\databaseviewer\dbviewerapp\DatabaseConnector.class
+com\databaseviewer\dbviewerapp\RemoveRequest.class
 com\finalRenderTest\finalTest\FinalTestApplication.class
